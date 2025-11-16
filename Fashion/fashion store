@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+    <title>Dharani Fashion</title>
+        <link rel="icon" type="image/png" href="data:image/png;base64,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">
+        
+    <style>
+        .main {
+            background-color: #806BDC;
+            margin-top: 0;
+            font-family: Arial, sans-serif;
+            color: white;
+            height: 60px;
+            text-align: center;
+            padding-top: 18px;
+        }
+        .product-row {
+            display: flex;           
+            justify-content: center; 
+            gap: 25px;               
+            margin-top: 10px;
+            background-color: white;
+            flex-wrap: wrap;
+          
+        }
+        .product {
+            text-align: center;
+        }
+        .product img {
+            width: 150px;
+            height: 130px;
+            border-radius: 8px; 
+        }
+        .product b {
+            display: block;
+            margin-top: 8px;
+        }
+        .dd{
+            padding-top: 35px;
+            background-color: rgb(224, 224, 224);
+            width: 900px;
+            height: auto;
+            padding-bottom:20px ;
+            padding-right:35px;
+            padding-left: 35px;
+            margin-bottom: 0PX;
+            margin: 0 auto; 
+            display: block;
+}
+    .A{
+            margin-top:0px;
+            padding-top:0px;
+           background-color: rgb(224, 224, 224);
+
+        }
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 1px solid #806BDC;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #806BDC;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2; /* alternate row color */
+        }
+        caption {
+            font-size: 25px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+    .f {
+    
+    height:40px;           
+    background-color: black;    
+    width: 100%; 
+    text-align: center;     
+    color: white;          
+    padding-top: 25px;  
+    padding-bottom:10px;
+    margin-bottom: 0%;      
+}
+        
+    </style>
+</head>
+<body style="background-color: rgb(224, 224, 224);"></body>    <h1 class="main">DHARANI FASHION STORE</h1>
+    
+    <div class="product-row">
+    <div class="product">
+        <img src="https://optorium.in/cdn/shop/files/Rayban_Sunglass_RB_3548-N_003_3M_image_1_7ad49c37-6d60-4fbb-beaa-bdde8940a428.png?v=1754383501&width=1200" alt="Ray-Ban Sunglasses">
+        <p>Sun Glasses</p>
+    </div>
+    <div class="product">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P8LhijnJ5xLp698iUkVukalnhby-XodLbg&s" alt="Casual T-Shirt">
+        <p>T-Shirt</p>
+    </div>
+    <div class="product">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSac3ZdJ8aUOaEnsec0w-qiYGass_Hb9sPGaQ&s" alt="Running Shoes">
+        <p>Shoes</p>
+    </div>
+    <div class="product">
+        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/shirts.jpeg" alt="Formal Shirt">
+        <p>Shirt</p>
+    </div>
+    <div class="product">
+        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/pants.jpeg" alt="Stylish Pants">
+        <p>Pants</p>
+    </div>
+    <div class="product">
+        <img src="https://cdn.codechef.com/download/Contest+images/ROTEST/perfume.jpeg" alt="Perfume Bottle">
+        <p>Perfume</p>
+    </div>
+</div>
+       
+    <div>
+    <img class ="dd"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUid6_AfNMjylgAi35yuGMaqKWa6s3j80p9w&s" alt="img">
+    </div>
+<center class="A"><H2> OUR UPCOMING SALES</H2></center>
+    <table>
+        <caption>Festival Discounts</caption>
+        <tr>
+            <th>Festival</th>
+            <th>Discount</th>
+            <th>Starting Date</th>
+            <th>Ending Date</th>
+        </tr>
+        <tr>
+            <td>Independence Day</td>
+            <td><del>30%</del> 40%</td>
+            <td>10 August</td>
+            <td>18 August</td>
+        </tr>
+        <tr>
+            <td>Diwali</td>
+            <td><del>50%</del> 60%</td>
+            <td>10 November</td>
+            <td>21 November</td>
+        </tr>
+        <tr>
+            <td>Christmas</td>
+            <td><del>35%</del>  50%</td>
+            <td>20 December</td>
+            <td>26 December</td>
+        </tr>
+        <tr>
+            <td>New Year</td>
+            <td><del>60%</del> 75%</td>
+            <td>30 December</td>
+            <td>6 January</td>
+        </tr>
+    </table>
+    <p>
+        <h2><b>Fashion Store: The One-stop Fashion Destination
+</b></h2>
+Stepping out and finding a perfect fashion choice is difficult? Why worry when you have your own Fashion Store at home where you can browse through thousands of choices and you can order clothes according to your liking. Don't worry if you don't like the item after you receive it, you can always consider the option for exchanging your item or even you can return your item and you will get the full amount back. Isn't that amazing? Start searching for your desired clothes and see it yourself. Once you are done with your first shopping, we are very sure that you will continue that in future as well and we will try our best to give you more and more choices so that you can have a variety of clothes to choose from and so you can find one which suits you the best.
+<br>
+<br>
+What makes us Great? Well few things are listed below:
+<br>
+<h2>Festival Sales
+</h2>
+We keep coming with different sales on our Indian Festivals where we offer huge discounts on your favorite clothes. If you want to get the notifications of all our future sales then you can subscribe to us and we will make sure that you will not miss any offer in future so that you can get your favorite cloth at the best possible price.
+<br>
+We keep coming with different sales on our Indian Festivals where we offer huge discounts on your favorite clothes. If you want to get the notifications of all our future sales then you can subscribe to us and we will make sure that you will not miss any offer in future so that you can get your favorite cloth at the best possible price.
+<ul>
+    <li>Independence Day Sale</li>
+<li>Diwali Sale</li>
+<li>Christmas Sale</li>
+<li>New Year Sale</li>
+</ul>
+<h2>Payment Options</h2>
+We support a large variety of payment options so that you won't miss a cloth due to unavailability of any payment option. You can use a debit card or your credit card to make the payment. Also, you can directly use your UPI ID to make the payment. We also provide EMI options if you think you can not afford a complete amount at once. Other than that, you can directly make your payment through your bank details and even if you are not sure or you are in doubt then you can choose the Cash option where you can pay the amount in cash to our partner who will be delivering your cloth at your doorstep.
+</p>
+
+<footer class="f">© 2012-2023 FashionStore.com</footer>
+
+
+</body>
+</html>
